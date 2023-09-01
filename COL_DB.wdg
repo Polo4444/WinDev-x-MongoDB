@@ -1,0 +1,67 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : COL_DB
+ major_version : 26
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x14eb68bb0007fcb1
+ internal_properties : BgAAAAYAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  type_code : 31
+  p_codes :
+   -
+     code : |1-
+      
+      gMDBCnx est une mongoConnexion
+      gDB est une mongoBase
+      gDBVideosCol est une mongoCollection
+     type : 720896
+  procedures :
+   -
+     name : Connexion
+     procedure_id : 1507413854517768852
+     type_code : 15
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] Connexion ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	chaîne ANSI : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure Connexion(): chaîne
+      
+      gMDBCnx = MongoCrée("mongodb://localhost:27017")
+      
+      // Gestion de l'erreur
+      err est une chaine = ErreurInfo(errMessage)
+      si err <> "" ALORS
+      	renvoyer err
+      FIN
+      
+      // Assignation de la BD par défaut et des collections
+      gDB				= gMDBCnx.BaseDeDonnées["PCSOFT-Astuces"]
+      gDBVideosCol	= gDB.Collection["Videos"]
+      
+      renvoyer ""
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BgAAAAYAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  original_name : COL_SansNom1
+resources :
+ string_res :
+  identifier : 0x14eb68b50005e5ce
+  internal_properties : BgAAAAYAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BgAAAAYAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

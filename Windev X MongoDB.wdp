@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Windev X MongoDB
+ major_version : 26
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : BgAAAAYAAAAqV5kiGg3kRyNzgsunOjeb3DJYb3QTSYQ9hg/Ohi0VH/g8FIg7P9Msp9/v8m9HqE2jMjx2wz4rHJ8lFhiEyvF3sbSJ5xrNmAYn9mygAJfUqG+LxPYH9YqM6nPbT9ifijkbGYevpLTdwlBtXrn0FXnK4CwBtzwcemP8FiweJpH85KWnwF4WJz1lJg6tiB4iXfkVenVGloYNtonka3eEcYU/pzILIcy/6ethf4eO/Z2+k8Vls4pK3TPKuSHmcwDnPV3oevy17l7pBPUU66kLbAH4EbJR0+WjFeSTtWkkuMpjOgZuz75+p6pu7m2BoAFmLjbSfyPJRXn+izrk7z/wlOlSLAktjW8R0QPEuVOpUldkjD2tLLC70KZtOn9X2Vqe5C6OYvaswFgtR2qOpJ9aBjtaKxZ6j71wFVyuwRyoM3Jom97kdL11vNrpWwoQq4Muf/L3OG0LEXS/0huYSB/4bcV8soicUdLpEPvGkgjsLjMeMj07r/5tONsQRzqk8stOCZsTUuEkgpZVb4aGKVTHNL5aXF0fPY+qGAPKiWodns4ErOcl5HMjsERicWOO78ndn7vscGlPmiF5aYLTyQlgJklfbX3lFSQe4R3OnA3J3cbk8/8+a7U7qqcIktlgT4DASSPgjjz6/+9Rm1jJLtoH6ilnSu4FKf8aLlSiotsnM9GgJ+DS/aMwxL5LprIIXq7l7JKlEGf4ZsoDAl/L603N3lYRgfO8nVmSN3DukqWZlq5XSB+ck7YLkoC8/NOQzwzP0MbsVLMysIhuUQ2bvw41EJYt+7yv/TS2OkYuzLFNh3qNNV0YI4AH448zLlqAL923d7R98E+/ICsZr+TNjDv+N71hTngVtStMcfwDGTKMEAqvIkX8uRN7tabpeYzarGmLObLNparGuFJy4pq8jlIziT3YTmF4P73rfyFSozwekcWrL4ZCClybqgB011jB0OI/Ipfq2OHew2IOhcVoFh3OBts4vXXj1OSNuYGGV5hLuOE3j8azckujvnelIZVwA0mrZKUC0uBbvobq2ulAex+SozjWgWg3dYLQDvs2Urhg8JSPUq40l+xOuhzDdJfSSiuZE37BdqsEswAKbdMYnq60tEycMl6Oilyb/k/aVAYzGutowf60ZL0HU8j1lLw4p8qfTFZIsA9OKRGhi0NAGnf00P3u47+rzL5SFCIwx+3eYz4BzhJkygbn70E06hJN7RIZT5ClLgAQ/91TKNyMQP6mLCEaWwZ+jNVt3AGNV/xMogGL75WyKM758bnnhdgsM25nW8SwGigJT6W0JPybh7Kj7/vHeDck8VIHoQImhbyII+PTOiTDLnLcq/MVq6Qc1744xoxIpGsf1Zu1rmYZxa8qrWjIobWRSDb4hnVu8IM1LXXp6Oa8Kqdgjtd+jdrHgRU9SulLkle19Ftp6IJ/EoZByuPGe4/Rg7DpcKHKYKxAZ0Nrf5mXZy+zCiQFmFu8HY9Xe/nULDqG+LN4M/ND8YEc7ainfsnERDVMaP5IK+O+3n7gTBJhaHZEQHi8H5YQd/BFr48uKhTHb/99pFQXUKSj/Mtcu3gpFiGFDdSDMSmDOTVgJt1wC1Q9K7lI6NWFmXhC3FOx1mhSCCE5uzme+cAhM1LjqmQkHUWqhagbGLpVYthG/O4Np4EpWaY7o9wGlQfO9ab7ARXfQX8q+0WnqWcUoGbQQTB2PIhuGckiFfMJtwvrZHcbKE4VPXkgv5jji2uYw0Z6ZRIHiHgg2UCVd7d78qSFvgdUcTtffL+FxPKLdhnBgw1enoYWfeLbY/w+4ojHebBO4CYhbMwUMPgngFFAb821oWfT+6VICU0nRNCtPYI7APRFYBUHxz9BqU0fA1O782GlMplwJmgu6ty3ca4xYufhBHnw6PYGWy2Ow7BTnitn+E1SWAn0NcGipUFvGyJxsXqdSuUGa4e7Uptt7oVo+AizdQPwyh3DIyI=
+ configurations :
+  -
+    name : Exécutable Windows 32 bits
+    internal_properties : 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
+    configuration_id : 7244069190823270432
+    type : 1
+    generation_name : Windev X MongoDB.exe
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x44eb682a008cc678
+  elements :
+   -
+     name : DB_Videos
+     identifier : 0x44eb6a0e00a42aae
+     internal_properties : BgAAAAYAAADZtYGFIh8XGCc+XV26SSZIc9ayamMG/352CdCZUrLgyCT4lJYf2aXpgLoknGScZFS8RA==
+     physical_name : .\DB_Videos.wdc
+     type : 4
+   -
+     name : COL_DB
+     identifier : 0x44eb68bb009ffcb1
+     internal_properties : BgAAAAYAAADJRTHV0o+nSBduy4LeWKr1x4CCkiUABluuYxRUZ42Jt3WLYCxg4BtZMOrULPTslATMVA==
+     physical_name : .\COL_DB.wdg
+     type : 7
+   -
+     name : FEN_Vidéos
+     identifier : 0x44eb68a9009db548
+     internal_properties : BgAAAAYAAADRo4+bZGFBZIaGb9nByEOeS4ueCDTqdBlfl/Bx8HYVQV0Zs3z5Lv1s5tTfmLtf2MNU
+     physical_name : .\FEN_Vidéos.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      gsErr est une chaine // Variable utilisée pour conserver l'erreur suite à l'exécution d'une de nos opérations
+      
+      // On se connecte à la base de données
+      gsErr = COL_DB.Connexion()
+      si gsErr <> "" ALORS
+      	FinProgramme(gsErr)
+      FIN
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 32 bits
+     identifier : 0x44eb682a008dc678
+     code_elements :
+      type_code : 159
+      p_codes :
+       -
+         type : 196628
+       -
+         type : 196629
+       -
+         type : 196631
+       -
+         type : 196630
+       -
+         type : 196632
+ code_parameters :
+  internal_properties : BgAAAAYAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+rad :
+ internal_properties : BgAAAAYAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : BgAAAAYAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BgAAAAYAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

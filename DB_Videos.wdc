@@ -105,6 +105,34 @@ class :
       
       renvoyer ""
      type : 458752
+   -
+     name : VersJSON
+     procedure_id : 1510057930891191457
+     type_code : 12
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] VersJSON ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	chaîne ANSI : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure VersJSON(): chaine
+      
+      sData est une chaine = ""
+      QUAND EXCEPTION DANS
+      	Sérialise(objet, sData, psdJSON)
+      FAIRE
+      	RENVOYER ExceptionInfo(errMessage)
+      FIN
+      
+      RENVOYER sData
+     type : 458752
   procedure_templates : []
   property_templates : []
  code_parameters :

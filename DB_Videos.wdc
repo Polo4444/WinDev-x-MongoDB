@@ -19,6 +19,9 @@ class :
       	_id est une chaine
       	Name est une chaine
       	Description est une chaine
+      	Likes est un entier
+      	AddedDate est une dateheure = ""
+      	Tags est un tableau de chaines
       fin
      type : 131072
   procedures :

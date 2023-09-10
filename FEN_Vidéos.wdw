@@ -133,7 +133,7 @@ window :
          -
            name : BTN_Like
            identifier : 0x24f4cd010a153aed
-           internal_properties : BgAAAAYAAACwzbWS7TqtmQ22ck+TjAAaaqpc+TY+FWMhJBRz8EwiqRMBVB9XXEpy9a8xNfKm5miol4KZRAjJlZTh2kQhEBb7OcPQSAhE0hZ9TY7uD+kxJKu2C2I78XsqXCLSt/4pkXCbOzaDSLSedMLjT6tW4/3CB656ZNVCicjfa1uFHnDV3b+k9PCl+mjOK9wQBpUFr7+FbuyqhzPVf4uUU3YKrPoqmpDFX//zMGeC1quk6z1lG2sShDB8xo2Cd6Gga9ZHzTsXHMqBnxsHpHRKAGytztI3UKrOAngFlPut3pCFhfDwPJvbAvbF02HHBU7sRiQ8He4G5ORo6/Yb5ULMR9bZ/afQ3qZx2LN5NSU0J6ZelRspZwUT3Z3w75KQCupxUtbCM7Z3FPN0uQvPDyJqAKmCuzB8JumjjIyLUwiCe6f5Pk6o8qpTNys3UM1vaL3cAhyJRxh62czlhZRYM3sSpLgZNgXzPS8yW2orq78RBlRu03yMJlGg0pf02UI6DKPmLOR7M3/rbtFMpFY9WHEbz1jHu0/V7to6OWf9FfHUj5F/+TgO3iwm3BmMvib+s1PVbZFDGY7SeEkarnPCN2n3p3ZCyuM5DL8Mid7cGUV+yrMk84Et6/xfpG7oAnNjYLtCDxBnMRkWrYET/Uc2tL0i92Ln6pbST8o875REtt5W+kzfSzG+Upb70Gix6eywBVMhzlAPrT0sl7dexkVAyNnBsfBYNUVapaRD1nXz5oauhft+wPc3N9IvAtTJ53k60gQCzpyiwIzF9m0ikq0djbp77u51+FzIVDVEKWJHnbXtH910xML9Um5cpUI=
+           internal_properties : BgAAAAYAAACwzbWS7TqtmQ22ck+TjAAaaqpc+TY+FWMhJBRz8EwiqRMBVB9XXEpy9a8xNfKm5miol4KZRAjJlZTh2kQhEBb7OcPQSAhE0hZ9TY7uD+kxJKu2C2I78XsqXCLSt/4pkXCbOzaDSLSedMLjT6tW4/3CB656ZNVCicjfa1uFHnDV3b+lHuSdeiBWsQos1DOnqdkDeMLC02+xm4mK45TghjDw/O4fu7NHrNcQVP8a5aM3FXGM1pz46jny1c9YcTiBl72JmsgR80+X+BJgZFLj8DSJ/jyYtnh1vJv3GNAzl+KumiXJXNLBP4UvT4D0gH42Y0x4UpJ4h1L7BRgyxwB3D3VO6CS7FD/Vqbl2sS70f7mPdQstzxkwNxoIMDCtbFDIASzdBgHkQRtz9/R84KPMxTp2IOfqzym2cmFrRNKwM7m5sWmyVn7sG5T8Bc6HUfnkPAPBqC8cXnM7XHDzBx9WKfLOmNIdMsPiZoAWczdFgKc1TUzT2bLJnBELzfRhqwEeILqmUXwD/b2YLZroBhtgGthcGYVRFISYrAZZZNgSUt+TUSPND9jFxSGDhHhQ3K7mVrl9U2A1w+YxZOqweq13xfgcZwJ/yL+j7M43d3YzYPTSbuNmYxldlQLwXdjB6tnuArg5sIET/Uc2tL0i92Ln6pbST8o875REtt5W+kzfSzG+Upb70Gix6eywBVMhzlAPrT0sl7dexkVAyNnBsfBYNUVapaRD1nXz5oauhft+wPc3N9IvAtTJ53k60gQCzpyiwIzF9m0ikq0djbp77u51+FzIVDVEKWJHnbXtH910xML9Um5cpUI=
            type : 4
            code_elements :
             type_code : 4
@@ -147,6 +147,28 @@ window :
                 COL_DB.gDBVideosCol.ModifieUn([
                 {"_id": "[%clData._id%]"}
                 ], clData.VersJSON())
+                
+                Liste()
+               type : 18
+             -
+               type : 161
+               enabled : false
+         -
+           name : BTN_Delete
+           identifier : 0x24fdc3e200815ee7
+           internal_properties : BgAAAAYAAAA/f/+A1GPvlepkadh34WX1HuzxTGubUiYgPHAaq9whfbS7sCVglqyOZ+o7Ew1/4OLqihyYKRrQCaE6gV+qVL+rKH7zDd9m4StN4BOJXxkSj1wQSmwzcKUKbwJUYA4a2ixpAzOZYwQzbO10WIIp6f1/k1wyR8ICP+SRxPxyLN18x6ji4ZU4k/cIcoLRAolqAYBc1W4sZlUdlzLtpRgEUvj6IzpwWcq1qEmnadERpiodtXEhSVHQImigg2POtlkEKCktfLckOgrbXg1T5duNjz6PugX163de82PwwdoTFI2iPnhAQ7ofF/AvA7jTcgNSwf4SU9BOIZz5TmcZwaJiuAMVt30CvddgbE2qwDNWL0bCHSsaJtXKeZofpRJMxUWvVzowPj/Qu43b6bymMvXCk9JB0NAHihUprvu0MHzsmiL3uo5e/xKNSWkpcFixKQDhTSef5yppwfTDY0tZiSASXAywyGgjSpYXbqP8/BBHovv8b+0HNb3uvZxVRtG9os6DZK5oMfOSpWpdq7q3pYTbEagwadYs1aAcxfcQHgR/XNvUxbGLd0XDqOIkYW/jPhBM0BgiFGnJeCzaZcLQbJZ+jP2r+BRZjqpArKRftWTmVO4l+wuwtd6RD932IsW12A9crO4K1jQVoATNf0eBkzhh8WwAn06J5rCb1VaHVZjB+faU+JSIq5KS0hNsnrCqnR42EhIIwQuYTyOweDC/pJHEcWPCSZbd8lqjMTMHMcSBIbDhVhsa+mHG/2ak47rp6J2KocxtXOWWeltYywZavFmYv6zSg+umbF6jZ/1FTEzn5nfl4OvxvvNvzt9C6FvQdc2rW4Au+iXWb3d5+hPspjqoYc/5F+qjFduVpvPmLP7K/97UYGD3X/J7OGs7AqCTkEtPNXOZ3yPVmc40sJiVds70THyu2NiPyZnhV9/ppDM4XO0TFVNPsn8F/uLfQMjSOvNuuRYfuYWHdk9JtlJ5s99ONoZQSnR5CgirX1Zpm+VHKMs3EfsS9xsV+ewhkXa3g81/MhgJ4Pu8R31xQz/PSFI2Xavm14caa93BL9UUE3Lw4oMztBIm
+           type : 4
+           code_elements :
+            type_code : 4
+            p_codes :
+             -
+               code : |1+
+                
+                clData est un DB_Videos = TABLE_Vidéos
+                
+                COL_DB.gDBVideosCol.SupprimeUn([
+                {"_id": "[%clData._id%]"}
+                ])
                 
                 Liste()
                type : 18

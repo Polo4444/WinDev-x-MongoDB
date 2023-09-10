@@ -43,6 +43,12 @@ project :
      internal_properties : BgAAAAYAAADRo4+bZGFBZIaGb9nByEOeS4ueCDTqdBlfl/Bx8HYVQV0Zs3z5Lv1s5tTfmLtf2MNU
      physical_name : .\FEN_Vidéos.wdw
      type : 2
+   -
+     name : DB_Comments
+     identifier : 0x44fde59500e50069
+     internal_properties : BgAAAAYAAADhU99LlDExlCYWJ5TpprHmPwgoDQe1aU1FobkZX/b/JHCKLKGWFr3MVkRPaEuvCPNk
+     physical_name : .\DB_Comments.wdc
+     type : 4
   other_elements : []
   net_assemblies : []
   uwp_api : []

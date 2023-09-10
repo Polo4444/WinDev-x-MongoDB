@@ -20,7 +20,7 @@ window :
      -
        name : COL__id
        identifier : 0x24eb6e7401c1569e
-       internal_properties : BgAAAAYAAABOrOI9qsHeT3mrZZ9pL9MCOUvkTaOqux2DoSWtHcQuIKqi/LeySVEBv+4hP0dSCjZzEunTj0sngDWOtH2rc36PWv/rOjPhuqz4u0ODDohIDzZGBq47JtaYVAszzPhdnFiZctAqi+gBGqN5Bfw4jdm2lylavBYajL40+1a96p8tHhsZqoWWDRqeAKqnB//ZMzY9wSAnHaCJ7PS1a5Xb+A==
+       internal_properties : BgAAAAYAAAD0b6eaRiAy0fsUldPoOlpfENLS0YkXXUEK9kgg3MuecowP0AUhuEAs13JQl5HhCUJ+4OIoGlXBpmbjtM2bBNrJS9L5VViT9HAhVPCmfSraZOzEqT4O3l3u7wAePugHBUUV+AEz2h61aBafOf+XIqeigjo0CgLApWJ9sbAtBE0RL1yGnWsR4tdLcN9o6ranG2Ovkw4i88e81AGFS/txKkQX6x6roN+m7Q==
        type : 2
        content :
         internal_properties : BgAAAAYAAAB9pL/KVKr+IEP/XZU0GZPyAB8/RQsJ3gSAOUr42mqWvmmHCpSb6DZLNsNCdhl64SD+UJwu9hN5HG+kbeEiRg7o/nRBSz774+WQjClEu//rrHUhJEB7eQXP5dZBKA2BdVIzZO7bCwyvPQs5DX0d+FGuSEirw6mpIbNpcOL5acU7RAQvrLPRO+FBiPrhchpGdNf2NU0z81MCSL/R5vEjkQH1ez+AUO2lV6trMK1lTsCEkEQ96qaRbEjrr4N2/HD+v3DgAJAT64t1jgkf3FtqWku70YM0oncKCM+BSAGBfSQOo7EYhapV/bMH9gWb51QAAhQ4Ip8bKXEpZJu8yr4XpGulg1gougeyoAECyN3BRV69xSanZ/D7Gu1LacguiQFPdzd4euJc/H6jCiaKpStSG13xv7TKl5WoeG1UMbFZBCJn2XPL6JY41JvrwmFDttgkLqbuz3LZH//rlglaa5Do9nL7feTXlldbuEwRpKcFt2V2DMi3sPKomqtXZyJ0GcuMDZxNiBT3bdcqi+WmcvNbFrIO/1uDnLYaqUMEWvBJNqbDNTnTK639eL0+dhOeMkFM/GENDFB1h13BjhdqPUo4KHBeKDQ+/Px8TzZlDAOotCyLyFHgURAp7a5O2XkF9FaOwzsMnzz9EuoMexH913jXo59Aq8d5fCDwPhV+XW3dUQtmQZiWFGWT/ucdO+eXjOqv98uE2+o2sTpNQhSoAKs05tjzR+xtN/2dSVx1AKooFv6FqDYvGP2c2zy+QP5bErXbhbK632/DXUUWwY3wNiH76y4vQYp6DbLG47TchOycLAL2e0od+P8=
@@ -41,7 +41,7 @@ window :
      -
        name : COL_Name
        identifier : 0x24eb6e7401c356bd
-       internal_properties : BgAAAAYAAAAsvNaW6Kx4ElmtCZ7HufSrQZfW7ypH7657U6dgdKr8nQIxxkv5TvieguINxwReiR8ja5uOGYtET/uCCV8zJsj3mL2EPDbM+FF/4AbeO9KNOBmQWdstoEWxMMPQyn85VfUYjG8BoyRnLTef+yUHG2oENOLB034QJtxNdwXXsFrWk/qoHYh3LbrGA6RC30rheWeMq8P6vb6LxdM8nm8kJU8=
+       internal_properties : BgAAAAYAAADpo4vxyZZPyi7L5OAAN67sFsfloNd9uDqFeDb6fBKkyjLYZxCoxJlvhOBF4cn3Y8f7OXPOb9YUrWBNC5d6eeq35ehXIvG0a/+lkkxGhQPHXfjmMyBWmEvq1lFJZgB+Ozq71ugD/kup6wZx8fZ4NYlXrkmfxhW18h7zYnni9+8KIHZ2mOmsWrTDkOGM/kScGH9WmL/Q1mY6WkxhBx+Zc6m7msl0SZUlxFU=
        type : 2
        content :
         internal_properties : BgAAAAYAAAB9pL/KVKr+IEP/XZU0GZPyAB8/RQsJ3gSAOUr42mqWvmmHCpSb6DZLNsNCdhl64SD+UJwu9hN5HG+kbeEiRg7o/nRBSz774+WQjClEu//rrHUhJEB7eQXP5dZBKA2BdVIzZO7bCwyvPQs5DX0d+FGuSEirw6mpIbNpcOL5acU7RAQvrLPRO+FBiPrhchpGdNf2NU0z81MCSL/R5vEjkQH1ez+AUO2lV6trMK1lTsCEkEQ96qaRbEjrr4N2/HD+v3DgAJAT64t1jgkf3FtqWku70YM0oncKCM+BSAGBfSQOo7EYhapV/bMH9gWb51QAAhQ4Ip8bKXEpZJu8yr4XpGulg1gougeyoAECyN3BRV69xSanZ/D7Gu1LacguiQFPdzd4euJc/H6jCiaKpStSG13xv7TKl5WoeG1UMbFZBCJn2XPL6JY41JvrwmFDttgkLqbuz3LZH//rlglaa5Do9nL7feTXlldbuEwRpKcFt2V2DMi3sPKomqtXZyJ0GcuMDZxNiBT3bdcqi+WmcvNbFrIO/1uDnLYaqUMEWvBJNqbDNTnTK639eL0+dhOeMkFM/GENDFB1h13BjhdqPUo4KHBeKDQ+/Px8TzZlDAOotCyLyFHgURAp7a5O2XkF9FaOwzsMnzz9EuoMexH913jXo59Aq8d5fCDwPhV+XW3dUQtmQZiWFGWT/ucdO+eXjOqv98uE2+o2sTpNQhSoAKs05tjzR+xtN/2dSVx1AKooFv6FqDYvGP2c2zy+QP5bErXbhbK632/DXUUWwY3wNiH76y4vQYp6DbLG47TchOycLAL2e0od+P8=
@@ -60,12 +60,12 @@ window :
            type : 278
            enabled : false
      -
-       name : COL_Desrcription
+       name : COL_Comments
        identifier : 0x24eb6e7401c556dc
-       internal_properties : BgAAAAYAAABvtwlksdPMXmEOSBBGQz3J0y6AZNdf+z9V+hWVH7+NYVt0uwmiCL3UepPlk2NO/lPacGzV1/JOhcTHIUwfouILK3KZbojQYYnEsztvl8H51wfIagikSV+9k3dZdqqzr34jpai0IU4w756dUcaXRhgsKUC8WlUVRJ4wAEdDkAEIk2SK6SLw6r4R/A9uUf8t1uIjj6PNTsNBJOxS0ELOx6S428nKFb6XqSbVbylj2YgrPt8=
+       internal_properties : BgAAAAYAAABZJz/3h39rMMVJM91MoG34ClmRt1S3nZ6U13O+qAeCdOyJ4VsaG50B3tg2Fbs3ls1GK3eHIgt420NBXrVqVKxrhDXbRoZnpzrkSWYO3LCvzVl61lYnlzWxlQyXkhulQGPyIkpXgPC+nYHTnzYZey5dbRl2LFdH9EOKzRqn8r5cvmtxW1OWYiDeEmFVEsAGXdpkEzCHnJjmWYUXhrUhpjV6WGwant45cT030Lo9dZcN29Umyg==
        type : 2
        content :
-        internal_properties : BgAAAAYAAAB9pL/KVKr+IEP/XZU0GZPyAB8/RQsJ3gSAOUr42mqWvmmHCpSb6DZLNsNCdhl64SD+UJwu9hN5HG+kbeEiRg7o/nRBSz774+WQjClEu//rrHUhJEB7eQXP5dZBKA2BdVIzZO7bCwyvPQs5DX0d+FGuSEirw6mpIbNpcOL5acU7RAQvrLPRO+FBiPrhchpGdNf2NU0z81MCSL/R5vEjkQH1ez+AUO2lV6trMK1lTsCEkEQ96qaRbEjrr4N2/HD+v3DgAJAT64t1jgkf3FtqWku70YM0oncKCM+BSAGBfSQOo7EYhapV/bMH9gWb51QAAhQ4Ip8bKXEpZJu8yr4XpGulg1gougeyoAECyN3BRV69xSanZ/D7Gu1LacguiQFPdzd4euJc/H6jCiaKpStSG13xv7TKl5WoeG1UMbFZBCJn2XPL6JY41JvrwmFDttgkLqbuz3LZH//rlglaa5Do9nL7feTXlldbuEwRpKcFt2V2DMi3sPKomqtXZyJ0GcuMDZxNiBT3bdcqi+WmcvNbFrIO/1uDnLYaqUMEWvBJNqbDNTnTK639eL0+dhOeMkFM/GENDFB1h13BjhdqPUo4KHBeKDQ+/Px8TzZlDAOotCyLyFHgURAp7a5O2XkF9FaOwzsMnzz9EuoMexH913jXo59Aq8d5fCDwPhV+XW3dUQtmQZiWFGWT/ucdO+eXjOqv98uE2+o2sTpNQhSoAKs05tjzR+xtN/2dSVx1AKooFv6FqDYvGP2c2zy+QP5bErXbhbK632/DXUUWwY3wNiH76y4vQYp6DbLG47TchOycLAL2e0od+P8=
+        internal_properties : BgAAAAYAAABpOBeGaOthJ3t11XP/f1Wk/qXf30EKYLf9giNOn42A1uHSPszqv8cXYx/VdYwLjaJW7qzfBuGMuFlifcH6Xj6yeuNY5pFb/r1UR2mWgGnVIsxeHSpNxgd7spt8jeEUzDTh1lIKN1aDKNMsH9kBtM2Z0SmSaEjrdteVAdKPhLJG6tHjUlCHIwgZP/n47HSMPbIJNqL4GfQjXdQFsHZXfjx5GfMGaEXF+kbez3AGh0gLPbosHP8DD+j5wXJnGtW6p1cAy/Ckwf91V/9L/kUcO1/IgwBHZEjwUXJjlhTqOkKUg/F2wBxCThnxuu8ZfzVYbp5fN7/AnNfugI6LMncnWskIsurYTnxF3KXpsvlPqKcdFJotC0gSAi2XZcWctXguJQEPqIOUkguNax9AKV97VtTf+FC874Of0QEfdaakS+tAILjgsU8zURKo/3r2/V3nDYf3OOcQdDIei+JH8DdRJe8GEH+6R4DyUa8UB/iCSLyr571c5RurHzQWRjG90ogP9vugs4sa7KDz0gxpPTTa12lXJDDoyYVL0qpf6YfEV4WCdnDKRhZArejrA5h5ZfqLW+KGpT3KPGCwtywLxM2to21p1ZFfGzEH5FWUT7iXxTv4S1qJjgMGyIFj8ka6OYU3FPpFqHUwD/URPrS0npMcdqivOHyWC7Wb7UJbguBM+nKNSgsRz9w2E+YaFDxe53Us3C5rssmlpp225cvXF3Yx0UtQKl8Mqmr4rsM8m11xe9F6kwkad+RF8jv/cROIyUQs6I52/AJALAbVF3czHzC8hEZlSgwIm6RVhPlcaQsq0DlM4OUzqO+JjlbFPJM2L+HTpkuqIcTz
         type : 2
        code_elements :
         internal_properties : BgAAAAYAAAD2Rkbx+OjeaV6cz3eLdX7jB0Jgs6WDDXWz15HdSBZm9oeZQ2BKnjRAOa1wH4EQ9d5x
@@ -81,9 +81,30 @@ window :
            type : 278
            enabled : false
      -
+       name : COL_Tags
+       identifier : 0x24fdeeb2011798d7
+       internal_properties : BgAAAAYAAABimSsO6E4N1+v6B6yob5DWRkSKKYRHnZHKe9La+WtLJatciqNdyiqQaMeKcymOOMKYnBV4wdfsDykhvDlnZur9UQGzsRbEBWJwpOsQPQpqGe4Bt+TmjVXHlOWMMKtp1L3H+saaXPVrNKqinqJdZnFWMGpHGzhh1O1bawl9FR4jSrGTplRXBQd8hboJwWZXcr8ejddHQR2SAZYTZGMemy++JoFI1iW7cM2B0pCd+Q==
+       type : 2
+       content :
+        internal_properties : BgAAAAYAAABNDVypwbeL1ZOVsXzqlqwE1sA17Iq2DsSgIgVkUUg519aPM1K4VTY//GMkgDve20eEvEDQaQ/lmZi5gONykIs1GUCEyJgKv7VwIHYwtScQGM6W1HQW7loXqXVlTPtj7XBeh+HWFqhqgvSX2sR/T2SCv7x1gjLxsvNKb9yEltf0x6rctOTfqTyjZPwUghZb1peNQLk0f99XPRV72nvQzEhcQjh+GGsLVNOyrcck+DHeIvd7hApeW0eIkl3FFO/0ANyZIT5buSoThY55EXSgbIeEVw0hQBQmzDfbygMohowJt4Y6rBIXYINRJgQxPf3Gj2qZk0BUssGh2zAnxDjPMaiqvsWFE6U/rBuo4u/R6Kq82ljfkoxk0j58Fs0XNK3VE5PAJ7lsQQp3+zR6OJ5C5iqk3txcFBfv0nwIj1EA59w/lRRrY8rilkzoUvD0brKGVvqhQzcDzbUIfxU/hILhEWFIzV2nmXoUbsCoem3MHsIb6xYU/rPFad2PCpxw1ippJNF3uTSEujYKVXQP9YPxlKLqtkVCHAis1I6GtV9RQt4nPcBb2o/71tAJwBQ/CAXcjBVi3oupK120YUEx1KRqwkY06Va5rop6VmWNoQM1ve84Np2fq+coUMrQyIlZCp46ANoDPb4y7EciA0HF432BtgKwRExgzvvJE4L+k12+mIrx+opdbmTK40WjCgZlbykMGkBEjjxe1PB+SPIxD2nqSWNY9H93ta+Md7TLW0MnjSwww+GFEK7Mma3SVNj7smk4WKjIx71Wtlju3Cj1EzSshzsEC1qZRF1WsEYRRrSN0Qm31C7kPcqCJHkD27P0LCSVc3xa2g==
+        type : 2
+       code_elements :
+        internal_properties : BgAAAAYAAADns55O0I5FVr+KdpHXBEVdgh/9Gu/e/Hs9nOAC4H1J0Y/1GvzA/WFS6iNLFc1oO3KlPQSdZCHy3OroZA==
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
        name : COL_Likes
        identifier : 0x24f490a60093709f
-       internal_properties : BgAAAAYAAACimFCu9Gu+UxRAeQksu7jzf3gGADMVVMz3UhEokDfRSA7emwoLEEyI3fnncXoMNqsMtTzh0HAKX+mnb/wIbJhfrRqmDlqgCwdkybiRKdlTOf3m4IPMsC5X2QD19TwFu1TR7eOADF6eqwXyutN1L0D1/0snN/4SyB6YtYiJuM5aWf6jF4Uy9BRnYrw4hKoNeNUWwPv06vMewS9D8Fcl51c8qVgJJMjqj54=
+       internal_properties : BgAAAAYAAAAtt4yuVdbwCkJbtaE8Hrz5Q8j3w2CBWnjnjLHpEPmEIGMgbzSWXys/BSFzy7NC4d8tai04bjLn5N/+RfMBkib5ZkeImE7Oho40P4Ys93AauQM6I6AoVodOq1XJuEPuKI8XHFXuK9Y7zpenYE78hCfYhwC7Ixca48GIUpTueUVBCIz4+wF1oJs4gGnksfvMwaeUrWyyd7eKInALC7xUsCarUURc53khjsu4cgpCMiFZ
        type : 2
        content :
         internal_properties : BgAAAAYAAABImzbnKOknNanzJOytNkLS9AZ1XovfFP3w3mdKdREo7pwRplR57unqp/i9qYTIm+1Za032M+lvcgGhvLBdMzGvDc0h8IAw/zmakdt1ENFRx6MXQZ8G3r74al5FKW350tOUaBNBssF/uMJMsJlqxxp+7JSJhMBb9VBGgDzG5dDpP/bFuI+XngFi1hlV0TZWBs/dVbfwChzc4AsIqV8gq/MC1CheM6D7ODxmtrwY12866AOAx5IXVu/KCDNW16p3r84Hwu8b+iaF6hcUJsOO5gagdf7kDQOT/kNeexIkKFyWbYP0JV2JgUKq4ST3cjoedNyZ5aV0C9mO0Fzpdl3z1ww/B8+FiL7neTHreGUnQvFzCqrpu4rsrEABCi2mk348HICY8edg0osn0Ir9YpYm9Hy7VpLDF7vYLnzBDW+R2L9ixt6G7/GxI9Dm6Qz+/0XXfRd/qENGjNrC75anUG3MWqpDJTxLKMfbNpLrNrEvN6XS+C7dKkpGlK9TE37Qyb3yg3anujbRRb8e/0lZq6RcXWFPptLKFwvNUOi5kxt620G4ODDKGo7Y1QKF+frd0WQpSyLEc9fq0orYn5THAo1nGfXxWx0T8Wn/9B0WRQN6qh79vSPIRdBPjUysCy+/f9uhmyPp5PDDdyA4byDThw4SAaVJcM3mKczco/BXPb+hW9MQ37QC4PMNxJH1tUozzhon63N+bSIzS12EPET9ESryLjoyKXRDKIj0cX+wmaordj6tVdscr6Ialwn5NWMaSK0CArwGbJ2aafsglX2d88JE4tA1IYhfFbr/NiEkmdNTHdwAhAYqgvV3byqRS4VA3T99HN5HBiUS
@@ -104,7 +125,7 @@ window :
      -
        name : COL_Added_Date
        identifier : 0x24f490a60095709f
-       internal_properties : BgAAAAYAAADU8XHD/XOQw46NiI0YIgpOAMAst8o+W2Cc94cLwWhFIH68JaBgIpIKSZm3AWW8J9491gln+l5oV7s21rktSLoHJdyrhMBA5J+/Ps//yV0HQQqNsWNVtFzHNKUW84jbd5NZlIjmbHt+qJw6eXCNdI2TNZ+xXHxKORn5A1GVylzH+dxdhoQzkU0kyzrbdZIvY7SAAvtEN0RwW2y34bipkDaY3Od6y2ly6TieWsPMbxapLFUcTAz2xb8uuNpUH2GTDHQdlgPsoRGYIprfZksfRhC2p5R4PjtYvw==
+       internal_properties : BgAAAAYAAACtGEW2iiiv1xHTLL++C7JCtBOKyE3GllF+w/lIVssU9D+Nyz1EEx3hqZbEPZaW02NEgT5VDYXzxyQaNNVaWr401wtGrVboqg4NBreZGxKLAFI2kemb0SOE6Q1CWlha/UykK+6C6tzda1pgNDvFtSRwKE8T6g3wIrzsxCKKFMKCJqstTKYizfz3zuEu2IKdplE/BmHW3sCXKGnyZF/JkmtPFf2y+SywUjtdz9CNe3j+7Zz2DKR7Y+T9K4eBRqk9Bhwaq5sjbp2Y3uajIJzZyiZngUcrNnFhDjO28r3MNA==
        type : 2
        content :
         internal_properties : BgAAAAYAAACiUKB3jiVC415zroj19Pfb1yh6n7FKqyrUb/4wJg1tczl5qYDRPo8IayD57CMbjpGvkku1iLg35yvHNv+1gekI70/nPdEd01PgR1MVveCIz3/BQRbcqGDpGYEUt5OAodostHT/3NZyYJaoHBi2KCiVVemyEC4bDCBaGWH0CrPMlcFvaOQ4i7A+bd75oLMKzf2sVbyDF269vz5SXm//vgSgVaLyhTMHozygZjNfHnDe7USjDu3eGOLHyu2yPyiXZr2dkZC2KmMJ/2qt0lqJumOSTpXLHCbLTgIOf0ysaidO8lc2lDJlT0dSSthWilvItFrFmIrywi08PZJU5rLH6AKPacevAlkbgjznLdklHiaVliEmbu4o9xMIAXEu0Qmx1fe+bYbbaf0XEF5ahox9J9E24cPoPD1S5/luuSlJ//nSrkLT+qAWZsZR5GT/HAHkWz+hZ6jFXJrFA00BsTIGt+iTUc3qqbV1216gYjxqnyxuunqC6QUsXqZ5alwvVtVrK+ChSaNoZ+0ZK9rtQDlK7lvrxKHjOltN0aC2WcD9ZXBsnhQliw3ATacZ7OD60rgkxd5qmBbRbia93bWdJ/hBUMud7WjAZC8h/c//FSTdtkm/JfnJIDEl952G+lNsRnEa00HRbyUeU5zfxeVRzK22zo1/qDx75opO7LJuURTCB2Z8Day33zZT7rSpxk5Gq0iwoW/cjG9md3mDtNlTEEN8m/wyn+GCCTik/hVJ7+cMSO3tryvF/j8K12wr9NNx3ZdJYIhGLajT1depbN6nXYV4/wJ+eJaNEIVdssO0QN/Ka6hot5szhs8UHnfnQefZ0VzOZj6UZzvrbNItrE0gdEHLTLkYBxmiGDKflhf87O16mN+mf54=
@@ -141,8 +162,17 @@ window :
              -
                code : |1+
                 
-                clData est un DB_Videos = TABLE_Vidéos
-                clData.Likes++
+                stData est un STAdapterVideo = TABLE_Vidéos
+                stData.Video.Likes++
+                
+                // On remplit l'objet DB_Videos
+                clData est un DB_Videos
+                clData._id = stData.Video._id
+                clData.AddedDate = stData.Video.AddedDate
+                clData.Description = stData.Video.Description
+                clData.Likes = stData.Video.Likes
+                clData.Name = stData.Video.Name
+                clData.Tags = stData.Video.Tags
                 
                 COL_DB.gDBVideosCol.ModifieUn([
                 {"_id": "[%clData._id%]"}
@@ -164,10 +194,10 @@ window :
              -
                code : |1+
                 
-                clData est un DB_Videos = TABLE_Vidéos
+                stData est un STAdapterVideo = TABLE_Vidéos
                 
                 COL_DB.gDBVideosCol.SupprimeUn([
-                {"_id": "[%clData._id%]"}
+                {"_id": "[%stData.Video._id%]"}
                 ])
                 
                 Liste()
@@ -467,7 +497,23 @@ window :
      code : |1-
       PROCEDURE MaFenêtre()
       
-      gtabData est un tableau de DB_Videos
+      STListe est une structure
+      	_id			est une chaîne
+      	Name		est une chaîne
+      	Description	est une chaîne
+      	Likes		est un entier
+      	AddedDate	est une DateHeure
+      	Tags		est un tableau de chaînes
+      	Comments est un tableau de DB_Comments
+      fin
+      
+      STAdapterVideo est une structure
+      	Video est un STListe
+      	Comments est un entier
+      	Tags est un entier
+      fin
+      
+      gtabData est un tableau de STAdapterVideo
       gclData est une DB_Videos
    -
      code : |1+
@@ -544,7 +590,44 @@ window :
       //
       procédure Liste()
       
-      gtabData = DB_Videos.Liste()	// On récupère la liste des vidéos
+      
+      // ON execute l'aggrégation
+      sErr est une chaîne
+      resp est un tableau de variants
+      (resp, sErr) = COL_DB.Aggreger("Videos", [
+      [{"$match":{}},{"$lookup":{"from":"Comments","localField":"_id","foreignField":"VideoID","as":"Comments"}}]
+      ])
+      
+      si sErr <> "" ALORS
+      	Erreur(sErr)
+      	retour
+      FIN
+      
+      stAdaptVideo est un STAdapterVideo
+      stVideo est un STListe
+      gtabData.SupprimeTout()
+      POUR TOUT item DE resp
+      	
+      	QUAND EXCEPTION DANS
+      		Désérialise(stVideo, VariantVersJSON(item, psdMinifié), psdJSON)
+      	FAIRE
+      		continuer
+      	FIN
+      	
+      	// On transforme les données
+      	stAdaptVideo.Video._id = stVideo._id
+      	stAdaptVideo.Video.Name = stVideo.Name
+      	stAdaptVideo.Video.AddedDate = stVideo.AddedDate
+      	stAdaptVideo.Video.Likes = stVideo.Likes
+      	stAdaptVideo.Video.Comments = stVideo.Comments
+      	stAdaptVideo.Comments = stVideo.Comments..Occurrence
+      	stAdaptVideo.Video.Tags = stVideo.Tags
+      	stAdaptVideo.Tags = stVideo.Tags..Occurrence
+      	gtabData.Ajoute(stAdaptVideo)
+      	VariableRAZ(stAdaptVideo)
+      	VariableRAZ(stVideo)
+      FIN
+      
       TABLE_Vidéos.Affiche()
      type : 458752
   procedure_templates : []

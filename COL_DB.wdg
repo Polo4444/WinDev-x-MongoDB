@@ -54,6 +54,42 @@ procedure_set :
       
       renvoyer ""
      type : 458752
+   -
+     name : Aggreger
+     procedure_id : 1512592455499913647
+     type_code : 15
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] Aggreger (<sCollection> est chaîne, <sPipeline> est chaîne)
+      //
+      // Paramètres :
+      //	sCollection (chaîne ANSI) : <indiquez ici le rôle de sCollection>
+      //	sPipeline (chaîne ANSI) : <indiquez ici le rôle de sPipeline>
+      // Valeur de retour :
+      // 	multi-valeur : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure Aggreger(sCollection est une chaine, sPipeline est une chaine): (tableau de variants, chaine)
+      
+      vCommand est un variant
+      vCommand.aggregate = sCollection
+      vCommand.pipeline = JSONVersVariant(sPipeline)
+      vCommand.cursor.batchSize = 1000000000
+      resp est un mongoRésultat = MongoExécuteCommande(gDB, vCommand)
+      sErr est une chaine = ErreurInfo(errMessage)
+      tabData est un tableau de variants
+      si sErr <> "" ALORS
+      	renvoyer (tabData, sErr)
+      FIN
+      
+      pour tout item de resp
+      	tabData = item.cursor.firstBatch
+      	renvoyer (tabData, "")
+      FIN
+     type : 458752
   procedure_templates : []
   property_templates : []
  code_parameters :
